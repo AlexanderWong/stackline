@@ -2,7 +2,7 @@
   "name": "stackline",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexanderwong.github.io/stackline/src/index.tsx",
+  "homepage": "https://alexanderwong.github.io/stackline",
   "dependencies": {
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
