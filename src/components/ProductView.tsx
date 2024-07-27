@@ -22,7 +22,7 @@ const ProductView: React.FC<ProductViewProps> = ({ product }) => {
     return <CircularProgress />;
   }
 
-  const { title, sales } = product;
+  const { sales } = product;
 
   if (!sales || sales.length === 0) {
     return <Typography variant="h6">No sales data available</Typography>;

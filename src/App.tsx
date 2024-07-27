@@ -4,7 +4,6 @@ import { RootState, AppDispatch } from './redux/store';
 import { fetchProductData } from './redux/productSlice';
 import ProductView from './components/ProductView';
 import { AppBar, Box, Toolbar, Container, Typography, CircularProgress, Alert } from '@mui/material';
-import Logo from './assets/stackline_logo.svg';
 import './App.css';
 
 const App: React.FC = () => {
